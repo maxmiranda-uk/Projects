@@ -1,4 +1,3 @@
-# Projects
 # Pandas Data Analysis Practice
 
 This repository contains my self-directed practice with Python and pandas, using real-world data from the UK Office for National Statistics (ONS).
